@@ -1,0 +1,20 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Andrew",
+        "password": "123"
+    }, {
+        "id": 2,
+        "name": "Julio",
+        "password": "123"
+    }, {
+        "id": 3,
+        "name": "Marco",
+        "password": "123"
+    }],
+    "tasks": [{
+        "id": 1,
+        "title": "task1",
+        "description": "desc1"
+    }]
+}

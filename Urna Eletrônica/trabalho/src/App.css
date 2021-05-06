@@ -1,0 +1,44 @@
+#Tela{
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  border: black;
+  border-style: dotted;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+}
+
+.SubTela{
+  border: black;
+  border-style: dotted;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+
+#BotaoPrincipal{
+  margin-bottom: 20px;
+}
+
+#BotaoFinalizar{
+  margin-top: 20px;
+}
+
+#Resultado{
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  border: black;
+  border-style: dotted;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 50px;
+}
+
+#retornarRanking{
+  border: black;
+  border-style: dotted;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 8px;
+}
